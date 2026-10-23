@@ -1,0 +1,21 @@
+PassengerId,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,PredictedSurvived,PredictionLabel
+161,3,male,44.0,0,1,16.1,S,0,Did not survive
+554,3,male,22.0,0,0,7.225,C,0,Did not survive
+861,3,male,41.0,2,0,14.1083,S,0,Did not survive
+242,3,female,,1,0,15.5,Q,1,Survived
+560,3,female,36.0,1,0,17.4,S,0,Did not survive
+388,2,female,36.0,0,0,13.0,S,1,Survived
+537,1,male,45.0,0,0,26.55,S,1,Survived
+699,1,male,49.0,1,1,110.8833,C,0,Did not survive
+100,2,male,34.0,1,0,26.0,S,0,Did not survive
+127,3,male,,0,0,7.75,Q,0,Did not survive
+334,3,male,16.0,2,0,18.0,S,0,Did not survive
+217,3,female,27.0,0,0,7.925,S,1,Survived
+818,2,male,31.0,1,1,37.0042,C,0,Did not survive
+28,1,male,19.0,3,2,263.0,S,0,Did not survive
+704,3,male,25.0,0,0,7.7417,Q,0,Did not survive
+486,3,female,,3,1,25.4667,S,0,Did not survive
+512,3,male,,0,0,8.05,S,0,Did not survive
+434,3,male,17.0,0,0,7.125,S,0,Did not survive
+577,2,female,34.0,0,0,13.0,S,1,Survived
+88,3,male,,0,0,8.05,S,0,Did not survive
